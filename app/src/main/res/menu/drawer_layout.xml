@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:icon="@drawable/ic_crashup_yerrow"
+    android:title="@string/first_icon"
+    android:id="@+id/first"/>
+    <item android:icon="@drawable/ic_crashup_yerrow"
+    android:title="@string/second_icon"
+    android:id="@+id/second"/>
+
+
+
+
+
+
+</menu>
